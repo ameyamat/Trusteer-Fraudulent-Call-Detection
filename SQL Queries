@@ -1,3 +1,4 @@
+
 ==> Count incoming calls by region: Tumbling window with aggregation
 
 SELECT 
@@ -20,15 +21,6 @@ GROUP BY TUMBLINGWINDOW(s, 5), SwitchNum
  AND DATEDIFF(ss, CS1, CS2) BETWEEN 1 AND 5
  WHERE CS1.SwitchNum != CS2.SwitchNum
  GROUP BY TumblingWindow(Duration(second, 1))
-
-
-
-
-
-
-
-
-
 
 
 
