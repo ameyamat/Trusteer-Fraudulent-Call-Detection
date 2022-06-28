@@ -1,8 +1,8 @@
 # Trusteer Fraudullent Call Detection 🚀
 
-[![React Badge]([http://img.shields.io/badge/Powered%20By-Azure-blue?style=for-the-badge&logo=azure](https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg))](https://reactjs.org/)
+<a href="https://www.azure.com/" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt = "azure" width = "40" height = "40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://450dsa.com/)
+
 
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt = "Azure" width = "40" height = "40"/>
 
