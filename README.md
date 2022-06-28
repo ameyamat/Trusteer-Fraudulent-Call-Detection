@@ -23,8 +23,8 @@ Trusteer Fraudulent Call Detector is a project that helps to analyze/detect Frau
 
 ## Credits 🙏🏻
 
-*Ameya Mathur* --> @ameyamat
-*Utkarsh Varshney* --> @utkarshrock2000
+**Ameya Mathur** --> @ameyamat
+**Utkarsh Varshney** --> @utkarshrock2000
 
 #### Curated list of question in [450dsa] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
 
