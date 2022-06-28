@@ -12,7 +12,19 @@ Trusteer Fraudulent Call Detector functions using Microsoft Azure Stream Analyti
 
 Trusteer Fraudulent Call Detector is a project that helps to analyze/detect Fraud Calls which are filtered (by defining MySQL queries) by the Stream Analytics job in Microsoft Azure.
 
+## Steps involved:
+
+- Generate sample phone call data and send it to Azure Event Hubs.
+- Create a Stream Analytics job.
+- Configure job input and output.
+- Define queries to filter fraudulent calls.
+- Test and start the job.
+- Visualize results in Power BI.
+
 ## Credits 🙏🏻
+
+Ameya Mathur --> <img src= "https://github.com/ameyamat" alt = "@ameyamat" width = "40" height = "40"/> </a>
+Utkarsh Varshney --> <img src= "https://github.com/utkarshrock2000" alt = "@utkarshrock2000" width = "40" height = "40"/> </a>
 
 #### Curated list of question in [450dsa] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
 
