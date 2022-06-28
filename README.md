@@ -3,9 +3,6 @@
 <a href="https://www.azure.com/" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt = "azure" width = "40" height = "40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt = "Azure" width = "40" height = "40"/>
-
 ## Overview 👀
 
 ![](.gitres/cover.png)
