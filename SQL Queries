@@ -1,4 +1,4 @@
-## Count incoming calls by region: Tumbling window with aggregation
+==> Count incoming calls by region: Tumbling window with aggregation
 
 SELECT 
     System.Timestamp as WindowEnd, SwitchNum, COUNT(*) as CallCount 
@@ -9,7 +9,8 @@ GROUP BY TUMBLINGWINDOW(s, 5), SwitchNum
 
 ------------------------------------------------------------------------------------------------------
 
-## Detect SIM fraud using a self-join
+
+==> Detect SIM fraud using a self-join
 
  SELECT System.Timestamp AS WindowEnd, COUNT(*) AS FraudulentCalls
  INTO "MyPBIoutput"
