@@ -1,6 +1,6 @@
 # Trusteer Fraudullent Call Detection 🚀
 
-[![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![React Badge]([http://img.shields.io/badge/Powered%20By-Azure-blue?style=for-the-badge&logo=azure](https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg))](https://reactjs.org/)
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://450dsa.com/)
 
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt = "Azure" width = "40" height = "40"/>
